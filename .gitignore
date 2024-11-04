@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ApiRestEFInMemoJwt/bin
+/ApiRestEFInMemoJwt/obj
+/ApiRestEFInMemoJwt/.vs
+/.vs
+/ApiRestEFInMemoJwt/ApiRestEFInMemoJwt.Api/bin/Debug/net8.0
+/ApiRestEFInMemoJwt/ApiRestEFInMemoJwt.Api/obj
+*.user
